@@ -1,0 +1,13 @@
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/client.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/thread_server.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/proc_server.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/reuse_server.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/preforked_server.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/file_client_tcp.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/file_server_tcp.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/install.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/install/local.dir
+/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug/CMakeFiles/install/strip.dir

@@ -1,0 +1,17 @@
+# ninja log v5
+0	86	1681216919445987225	CMakeFiles/thread_server.dir/thread_server.c.o	a0221ef7eecb08d
+0	68	1681217278721608885	CMakeFiles/file_client_tcp.dir/file-client-tcp.c.o	866914a0d690e4ac
+67	91	1681216907833363606	client	129802a304aa1904
+0	74	1681216912067087416	CMakeFiles/preforked_server.dir/preforked_server.c.o	b0695163c532696a
+0	67	1681216907809353678	CMakeFiles/client.dir/client.c.o	b0f043054a25f017
+66	89	1681216917113084140	reuse_server	eb3e44ebab721a4b
+74	98	1681216912091097037	preforked_server	6086bf292f41f1ed
+0	63	1681216914692133549	CMakeFiles/proc_server.dir/proc_server.c.o	d9722cd88671a09a
+86	115	1681216919473997994	thread_server	362b720ccd623355
+63	85	1681216914716143054	proc_server	e4b1f45690de66d4
+68	94	1681217278745586567	file_client_tcp	64673f69f30cf04c
+0	66	1681216917093076358	CMakeFiles/reuse_server.dir/reuse_server.c.o	67479935bbc46da8
+0	76	1681219787221172279	CMakeFiles/file_server_tcp.dir/file-server-tcp.c.o	390d46106261cf4d
+76	100	1681219787245171364	file_server_tcp	f93db560c5d86478
+0	84	1681219810330619203	CMakeFiles/file_server_tcp.dir/file-server-tcp.c.o	390d46106261cf4d
+84	109	1681219810358623264	file_server_tcp	f93db560c5d86478

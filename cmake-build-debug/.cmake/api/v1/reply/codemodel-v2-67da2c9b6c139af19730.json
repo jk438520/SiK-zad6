@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW_SIK_TCP_SERVERS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client-Debug-3344640942456bd0c94c.json",
+					"name" : "client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_client_tcp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_client_tcp-Debug-0c83025e85eea39f2375.json",
+					"name" : "file_client_tcp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server_tcp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server_tcp-Debug-6ef2dd4666ad509c3495.json",
+					"name" : "file_server_tcp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "preforked_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-preforked_server-Debug-16c3386b538b9c60749e.json",
+					"name" : "preforked_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "proc_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-proc_server-Debug-ca2b06f4564cccdef95b.json",
+					"name" : "proc_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reuse_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reuse_server-Debug-0b3ba145f1ad70050f06.json",
+					"name" : "reuse_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread_server-Debug-c124034abdc93415684f.json",
+					"name" : "thread_server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jkolaczy/uw/SIK/LAB06/cmake-build-debug",
+		"source" : "/home/jkolaczy/uw/SIK/LAB06"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
